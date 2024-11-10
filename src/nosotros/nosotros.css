@@ -1,0 +1,26 @@
+
+.fondo3{
+    background-color: #e0e0e0;
+    margin: 0%;
+    padding: 100px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.mns{
+    border: solid #b7b6b6 1px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    padding: 20px;
+}
+
+#mns1{
+    text-align: center;
+}
+
+.mns1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
